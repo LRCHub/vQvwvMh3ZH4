@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "夢で逢いましょう",
+  "base_artist": "TOSHIMITSU",
+  "createdAt": "2025-12-30T16:29:53.551222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢で逢いましょう",
+      "artist": "谷村新司/アリス",
+      "has_synced": false,
+      "path": "select/01_夢で逢いましょう_谷村新司_アリス.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢で逢いましょう",
+      "artist": "ハナレグミ",
+      "has_synced": false,
+      "path": "select/02_夢で逢いましょう_ハナレグミ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢で逢いましょう",
+      "artist": "SARD UNDERGROUND",
+      "has_synced": true,
+      "path": "select/03_夢で逢いましょう_SARD_UNDERGROUND.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢で逢いましょう",
+      "artist": "TOSHIMITSU",
+      "has_synced": false,
+      "path": "select/pl_01_夢で逢いましょう_TOSHIMITSU.txt"
+    }
+  ]
+}
